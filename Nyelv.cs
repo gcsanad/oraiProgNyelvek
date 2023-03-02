@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WpfApp5
+namespace WpfApp1
 {
     public enum Nyelvcsaladok {moduláris, struktúrált, funkcionális, objektumorientált};
     public class Nyelv
